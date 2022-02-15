@@ -1,5 +1,8 @@
 {
   "alunos": [{
-  
+      "nome": "Silva",
+      "curso": "Dev front",
+      "matricula": "2022abc",
+      "id": "1"
   }]
 }
